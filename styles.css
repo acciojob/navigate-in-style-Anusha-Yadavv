@@ -5,7 +5,10 @@
 /* 	margin-right:1rem; */
 	
 }
-ul li {
+ul{
+	display:flex;
+}
+ul li{
 		display:inline;
 		margin-right:1rem;
 
